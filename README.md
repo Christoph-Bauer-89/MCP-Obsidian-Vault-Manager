@@ -57,6 +57,7 @@ Um den Server lokal in Claude Desktop einzubinden, wird die Konfigurationsdatei 
     }
   }
 }
+```
 
 ## 💡 Key Learnings & Fazit
 **Standardisierung durch MCP:** MCP löst das Schnittstellen-Chaos zwischen LLMs und lokalen Tools auf elegante, standardisierte Weise.
