@@ -64,8 +64,7 @@ Sicherheit an erster Stelle: Auch bei lokalen KI-Integrationen sind Sandbox-Prü
 Effizienz von FastMCP: Das Framework reduziert den Implementierungsaufwand für komplexe Protokoll-Server auf ein absolutes Minimum.
 
 ## 📁 Repository-Struktur
-'''text
-├── Scripts/
-│   └── server.py           # MCP-Server mit FastMCP & Sicherheitsvalidierung
-├── requirements.txt        # Python-Abhängigkeiten (mcp, pyyaml)
-└── README.md               # Projektdokumentation
+
+- **Scripts/server.py**: MCP-Server mit FastMCP & Sicherheitsvalidierung
+- **requirements.txt**: Python-Abhängigkeiten (mcp, pyyaml)
+- **README.md**: Projektdokumentation
