@@ -57,11 +57,11 @@ Um den Server lokal in Claude Desktop einzubinden, wird die Konfigurationsdatei 
 }
 
 ## 💡 Key Learnings & Fazit
-Standardisierung durch MCP: MCP löst das Schnittstellen-Chaos zwischen LLMs und lokalen Tools auf elegante, standardisierte Weise.
+**Standardisierung durch MCP:** MCP löst das Schnittstellen-Chaos zwischen LLMs und lokalen Tools auf elegante, standardisierte Weise.
 
-Sicherheit an erster Stelle: Auch bei lokalen KI-Integrationen sind Sandbox-Prüfungen (is_relative_to) unerlässlich, um unbeabsichtigte Dateimodifikationen zu verhindern.
+**Sicherheit an erster Stelle:** Auch bei lokalen KI-Integrationen sind Sandbox-Prüfungen (is_relative_to) unerlässlich, um unbeabsichtigte Dateimodifikationen zu verhindern.
 
-Effizienz von FastMCP: Das Framework reduziert den Implementierungsaufwand für komplexe Protokoll-Server auf ein absolutes Minimum.
+**Effizienz von FastMCP:** Das Framework reduziert den Implementierungsaufwand für komplexe Protokoll-Server auf ein absolutes Minimum.
 
 ## 📁 Repository-Struktur
 
