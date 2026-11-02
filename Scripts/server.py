@@ -7,7 +7,7 @@ import yaml
 mcp = FastMCP("Obsidian Vault Manager")
 
 # WICHTIG: Passe diesen Pfad exakt an den Ordner deines Obsidian-Vaults an!
-VAULT_PATH = Path(r"C:\Users\chris\Documents\AI Überblick\Obsidian\KI_Knowledge_Base")
+VAULT_PATH = Path(r"C:/Dein/Pfad/zu/deinem/Vault")
 
 @mcp.tool()
 def list_vault_notes() -> list[str]:
