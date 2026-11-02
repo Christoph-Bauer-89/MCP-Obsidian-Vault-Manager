@@ -42,7 +42,7 @@ if not full_path.resolve().is_relative_to(VAULT_PATH.resolve()):
 ```
 Dadurch wird sichergestellt, dass Claude sich physisch niemals außerhalb des definierten Obsidian-Vault-Verzeichnisses bewegen kann.
 
-📥 Integration in Claude Desktop
+## 📥 Integration in Claude Desktop
 Um den Server lokal in Claude Desktop einzubinden, wird die Konfigurationsdatei (claude_desktop_config.json) um folgenden Eintrag ergänzt:
 
 {
